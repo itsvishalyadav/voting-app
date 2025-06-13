@@ -1,0 +1,22 @@
+list of candidates --> address 
+
+list of voters --> address
+
+bool mapped to voters address (hasVoted) ----- if bool true then person cant vote
+
+noOfVotes mapped to candidates address (noOfVotes) ---- add one vote per voter for candidate
+
+
+
+constructor will initialize all candidates participating
+
+
+
+function vote so voters can vote for any candidate
+
+funcntion to get all candidates
+
+function get votes for any candidate
+
+function findWinner to get the final Winner
+
